@@ -1,6 +1,4 @@
 
-# Art and AI
-
 This repository includes some of my paintings and AI-generated art, including a neural transfer notebook.
 
 ## Paintings
